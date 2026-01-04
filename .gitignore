@@ -1,0 +1,6 @@
+data/
+*.csv
+*.xlsx
+*.docx
+*.pdf
+*.txt
